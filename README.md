@@ -10,12 +10,15 @@ Person re-identification can be a challenging task, as it requires dealing with 
 
 ## Dataset Description: 
 
-Dataset Name: Market-1501
-It contains 1501 identities which are captured by six different cameras, and 32,668 pedestrian 
-image bounding boxes obtained using the Deformable Part Models pedestrian detector. 
+**Dataset Name:** Market-1501
+
+It contains 1501 identities which are captured by six different cameras, and 32,668 pedestrian image bounding boxes obtained using the Deformable Part Models pedestrian detector. 
+
 Each person has 3.6 images on average at each viewpoint. 
+
 The dataset is split into two parts: 750 identities are utilized for training and the remaining 751 
 identities are used for testing.
+
 The training set consists of 12936 images and the testing set consists of 19732 images.
 
 ## Sample Images from Training set:
